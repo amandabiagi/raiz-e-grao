@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+$green: #5D7F4A;
+$beige: #FAF8F3;
+$brown: #8B7355;
+$text-light: #FFFFFF;
+$text-dark: #000000;
+$text-grey: #1d1c1c;
+$dark: #000000;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: $beige;
+}
+
+.btn-whatsapp {
+  background-color: $green;
+  color: white;
+  border-radius: 8px;
+  padding: 10px 20px;
+}
